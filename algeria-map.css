@@ -1,0 +1,27 @@
+body{
+    background-color: 	#23272a
+}
+
+
+.svg{
+    margin: 2% auto 0 5%;
+    width: 40%;
+    height: fit-content;
+}
+.svg h2{
+    height: 30px;
+    text-align: center;
+    color: #99aab5;
+}
+.title{
+    margin: auto;
+    width: fit-content;
+}
+.title h1{
+    color: white;
+}
+.svg svg{
+    width: 100%;
+    height: fit-content;
+    object-fit: contain;
+}
